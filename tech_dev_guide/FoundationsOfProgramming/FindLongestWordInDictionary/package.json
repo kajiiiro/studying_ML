@@ -1,0 +1,13 @@
+{
+  "name": "FindLongestWordInDictionary",
+  "version": "1.0.0",
+  "main": "1.js",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.26.8",
+    "prettier": "^1.17.0"
+  }
+}
