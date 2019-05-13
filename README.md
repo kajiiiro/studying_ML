@@ -36,6 +36,8 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 - Azureサービス https://azure.microsoft.com/ja-jp/services/media-services/video-indexer/
 - AWSサービス https://aws.amazon.com/jp/rekognition/?nc2=h_m1
 - chainer https://tutorials.chainer.org/ja/tutorial.html
+- google ガイドライン https://pair.withgoogle.com/
+  - google IOでのセッション https://www.youtube.com/watch?v=rf83vRxLWFQ
 
 ### エディタ
 - ノートブック(クラウドpythonエディタ and ドキュメント) https://colab.research.google.com/notebooks/welcome.ipynb
