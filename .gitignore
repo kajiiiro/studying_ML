@@ -3,4 +3,5 @@ venv/
 python3/
 py3/
 env/
+pyenv
 google-python-exercises/
