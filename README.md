@@ -38,6 +38,11 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 - chainer https://tutorials.chainer.org/ja/tutorial.html
 - google ガイドライン https://pair.withgoogle.com/
   - google IOでのセッション https://www.youtube.com/watch?v=rf83vRxLWFQ
+- coursera Ng先生の講義 https://www.coursera.org/learn/machine-learning/home/welcome
+
+###　書籍
+
+- oreilly ゼロから始めるDeepLearning 魚のやつ
 
 ### エディタ
 - ノートブック(クラウドpythonエディタ and ドキュメント) https://colab.research.google.com/notebooks/welcome.ipynb
