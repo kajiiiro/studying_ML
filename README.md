@@ -30,7 +30,7 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 ### 基礎
 - https://techdevguide.withgoogle.com/
 
-### 機会学習
+### 機械学習
 
 - AIフレームワーク https://www.tensorflow.org/tutorials/
 - Azureサービス https://azure.microsoft.com/ja-jp/services/media-services/video-indexer/
