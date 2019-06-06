@@ -5,5 +5,5 @@ py3/
 env/
 pyenv
 google-python-exercises/
-coursera/machine-learning-ex/
+coursera/machine-learning-ex*
 coursera/Lecture*
