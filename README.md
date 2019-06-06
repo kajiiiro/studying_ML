@@ -42,6 +42,8 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 - stanford大学のコース
   - http://cs231n.stanford.edu/
   - http://vision.stanford.edu/
+- AIプロダクトガイドライン https://pair.withgoogle.com
+- ML crash course https://developers.google.com/machine-learning/crash-course/
 
 ###　書籍
 
