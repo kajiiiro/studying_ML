@@ -45,7 +45,7 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 - AIプロダクトガイドライン https://pair.withgoogle.com
 - ML crash course https://developers.google.com/machine-learning/crash-course/
 
-###　書籍
+### 書籍
 
 - oreilly ゼロから始めるDeepLearning 魚のやつ
 
