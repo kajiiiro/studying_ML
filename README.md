@@ -44,6 +44,7 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
   - http://vision.stanford.edu/
 - AIプロダクトガイドライン https://pair.withgoogle.com
 - ML crash course https://developers.google.com/machine-learning/crash-course/
+- 論文等のまとめサイト https://github.com/arXivTimes/arXivTimes
 
 ### 書籍
 
