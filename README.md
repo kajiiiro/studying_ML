@@ -15,7 +15,7 @@ AIが巻き起こすシンギュラリティの壁を乗り越えるもの(以�
 
 - python少ししかわからん
   - notebookがpython使えるので、少しは学習する
-- typescript, nodejsなら結構できる
+- typescript, nodejsなら結構できる
 - clojure等の関数型言語に傾倒
 - ゼロから作るDeep Learning 読了
 - Python機械学習クックブック 未読了
